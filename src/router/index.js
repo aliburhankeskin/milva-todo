@@ -18,7 +18,7 @@ export default function RootRouter() {
     return (
         <Router>
 
-            <Grid container>
+            <Grid container style={{minWidth:1300}}>
 
                 <Grid item xs={2}>
 
