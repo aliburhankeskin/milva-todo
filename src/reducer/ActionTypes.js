@@ -1,0 +1,8 @@
+export const GET_CATEGORY = 'GET_CATEGORY';
+export const ADD_CATEGORY = 'ADD_CATEGORY';
+export const DELETE_CATEGORY = 'DELETE_CATEGORY'
+export const UPDATE_LIST = 'UPDATE_LIST';
+export const ADD_LIST_ITEM = 'ADD_LIST_ITEM';
+export const DELETE_LIST_ITEM = 'DELETE_LIST_ITEM';
+export const FAV_LIST_ITEM = 'FAV_LIST_ITEM';
+
